@@ -1,0 +1,10 @@
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\bin\Debug\BinarySortTree.exe.config
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\bin\Debug\BinarySortTree.exe
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\bin\Debug\BinarySortTree.pdb
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\obj\Debug\BinarySortTree.csprojAssemblyReference.cache
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\obj\Debug\BinarySortTree.Form1.resources
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\obj\Debug\BinarySortTree.Properties.Resources.resources
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\obj\Debug\BinarySortTree.csproj.GenerateResource.cache
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\obj\Debug\BinarySortTree.csproj.CoreCompileInputs.cache
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\obj\Debug\BinarySortTree.exe
+C:\Users\sfx\Desktop\数据结构课程设计\BinarySortTree\obj\Debug\BinarySortTree.pdb
